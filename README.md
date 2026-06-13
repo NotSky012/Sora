@@ -1,6 +1,6 @@
-# TitanBot - Ultimate Discord Bot
+# Sora - Ultimate Discord Bot
 
-**TitanBot** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
+**Sora** is a powerful, feature-rich Discord bot designed to enhance your server experience with comprehensive moderation tools, engaging economy systems, utility features, and much more. Built with modern Discord.js v14 and PostgreSQL for optimal performance and data persistence.
 
 [![Support Server](https://img.shields.io/badge/-Support%20Server-%235865F2?logo=discord&logoColor=white&style=flat-square&logoWidth=20)](https://discord.gg/8kJBYhTGW9)
 [![Discord.js](https://img.shields.io/npm/v/discord.js?style=flat-square&labelColor=%23202225&color=%23202225&logo=npm&logoColor=white&logoWidth=20)](https://www.npmjs.com/package/discord.js)
@@ -95,7 +95,7 @@ For a detailed step-by-step setup guide, watch our comprehensive video tutorial:
 
 ## Docker Deployment (Recommended)
 
-TitanBot is fully containerized for easy deployment.
+Sora is fully containerized for easy deployment.
 
 1. **Clone the repository:**
    ```bash
